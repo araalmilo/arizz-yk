@@ -1,2 +1,2 @@
 # arizz-yk
-belajar itu baik
+<belajar itu baik>
